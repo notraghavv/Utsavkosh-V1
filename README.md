@@ -54,7 +54,7 @@ This project was developed individually. The developer was responsible for requi
 ## Project Links
 - **Live Application:** https://utsavkosh.netlify.app/
 - **GitHub Repository:** https://github.com/notraghavv/Utsavkosh-V1
-- **Demonstration Video:** To be added after the video is prepared.
+- **Demonstration Video:** https://www.youtube.com/watch?v=wEUVeHZ-PbA
 
 ## Security
 Sensitive credentials, passwords, access tokens, and private user data must not be committed to the repository. Configuration values should be managed securely using environment variables and appropriate service settings.
