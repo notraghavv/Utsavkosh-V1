@@ -1,0 +1,10 @@
+{
+  "description": "Manage luxury wedding and event decoration business operations with a premium dashboard offering bookings, payments, reports, and client insights.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
